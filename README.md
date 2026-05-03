@@ -71,5 +71,3 @@ This project was created for my bachelor thesis.
 
 This project was developed as part of a bachelor's thesis at Univerzita Komenského v Bratislave.
 Copyright ownership may be subject to university policies.
-
-is this good?
