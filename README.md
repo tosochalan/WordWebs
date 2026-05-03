@@ -51,12 +51,10 @@ If no action is provided, or an invalid action is used, the program will display
 
 ## Available Actions
 
-The available actions include:
-
-print_info - prints all basic characteristics of the graphs with scaling exponents in two regime degree distribution
-number_of_words - prints number of words per source text
-plot_degree_distribution - plots degree -> probability of degree graph with two regression lines (small and large degrees)
-draw_graph - draws cool (but kind of irrelevant) graph using spring layout
+- `print_info` — prints all basic characteristics of the graphs with scaling exponents in two-regime degree distribution  
+- `number_of_words` — prints number of words per source text  
+- `plot_degree_distribution` — plots degree → probability of degree graph with two regression lines (small and large degrees)  
+- `draw_graph` — draws a visually interesting but not very relevant graph using a spring layout  
 
 ## Text Sources
 
