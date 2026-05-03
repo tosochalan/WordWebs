@@ -1,6 +1,6 @@
 # Word Frequency Analysis Tool
 
-A tool for processing texts into word webs - simple, undirected, unweighted graphs which connect words (and interpunction) based on co-occurrence. Useful in network analysis.
+A tool for processing texts into word webs - simple, undirected, unweighted graphs which connect words (and punctuation) based on co-occurrence. Useful in network analysis.
 
 ## Structure
 
