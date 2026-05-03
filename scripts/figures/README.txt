@@ -1,0 +1,1 @@
+the files under /scripts/figures are used for quick image plotting during the theory explanation chapter. (not really relevant to the wordweb core)

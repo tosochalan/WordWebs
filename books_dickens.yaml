@@ -1,0 +1,15 @@
+books:
+  - title: "The Pickwick Papers"
+    file_name: "text_files/the_pickwick_papers.txt"
+    start_line: 279
+    end_line: 36722
+
+  - title: "Bleak House"
+    file_name: "text_files/bleak_house.txt"
+    start_line: 208
+    end_line: 39868
+
+  - title: "Our Mutual Friend"
+    file_name: "text_files/our_mutual_friend.txt"
+    start_line: 126
+    end_line: 38681

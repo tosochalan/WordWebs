@@ -1,0 +1,130 @@
+Constructing wordwebs...
+--------------- Oliver Twist ------------------
+1/6
+2/6
+3/6
+4/6
+5/6
+trimmed 3 points from both tails
+Wordweb from file: text_files/oliver_twist.txt
+Number of nodes: 10377
+Number of edges: 129428
+Density: 0.002404121742163163
+Diameter: 4
+Average degree: 24.95
+Average shortest path length: 2.31
+Average clustering coefficient: 0.72
+Small-world index: 373.65
+Power-law exponent (gamma_1): 1.664 ± 0.156 with R^2 = 0.9121
+Power-law exponent (gamma_2): 2.154 ± 0.097 with R^2 = 0.9764
+m_r parameter in RW model: 1.465
+Power-law exponent on all data: 2.153 ± 0.028
+
+--------------- Oliver Twist (no punctuation) ------------------
+1/6
+2/6
+3/6
+4/6
+5/6
+trimmed 3 points from both tails
+Wordweb from file: text_files/oliver_twist.txt
+Number of nodes: 10364
+Number of edges: 138646
+Density: 0.0025818109458013365
+Diameter: 5
+Average degree: 26.76
+Average shortest path length: 2.40
+Average clustering coefficient: 0.67
+Small-world index: 303.18
+Power-law exponent (gamma_1): 1.536 ± 0.175 with R^2 = 0.8745
+Power-law exponent (gamma_2): 2.154 ± 0.085 with R^2 = 0.9819
+m_r parameter in RW model: 1.466
+Power-law exponent on all data: 2.100 ± 0.027
+
+additional nodes: {'“', '”', '_', ';', ',', '‘', '.', ')', '’', '!', ':', '(', '?'}
+--------------- Bleak House ------------------
+1/6
+2/6
+3/6
+4/6
+5/6
+trimmed 3 points from both tails
+Wordweb from file: text_files/bleak_house.txt
+Number of nodes: 15287
+Number of edges: 231819
+Density: 0.001984097011276442
+Diameter: 4
+Average degree: 30.33
+Average shortest path length: 2.30
+Average clustering coefficient: 0.75
+Small-world index: 463.42
+Power-law exponent (gamma_1): 1.614 ± 0.138 with R^2 = 0.9255
+Power-law exponent (gamma_2): 2.141 ± 0.117 with R^2 = 0.9656
+m_r parameter in RW model: 1.506
+Power-law exponent on all data: 2.107 ± 0.022
+
+--------------- Bleak House (no punctuation) ------------------
+1/6
+2/6
+3/6
+4/6
+5/6
+trimmed 1 points from both tails
+Wordweb from file: text_files/bleak_house.txt
+Number of nodes: 15273
+Number of edges: 247138
+Density: 0.0021190892887564023
+Diameter: 5
+Average degree: 32.36
+Average shortest path length: 2.38
+Average clustering coefficient: 0.71
+Small-world index: 389.54
+Power-law exponent (gamma_1): 1.445 ± 0.187 with R^2 = 0.8323
+Power-law exponent (gamma_2): 2.093 ± 0.058 with R^2 = 0.9901
+m_r parameter in RW model: 1.659
+Power-law exponent on all data: 2.115 ± 0.031
+
+additional nodes: {'“', '”', '&', ';', '_', ',', '‘', '.', ')', '’', '!', ':', '(', '?'}
+--------------- Our Mutual Friend ------------------
+1/6
+2/6
+3/6
+4/6
+5/6
+trimmed 3 points from both tails
+Wordweb from file: text_files/our_mutual_friend.txt
+Number of nodes: 15332
+Number of edges: 222609
+Density: 0.001894102250805314
+Diameter: 4
+Average degree: 29.04
+Average shortest path length: 2.30
+Average clustering coefficient: 0.75
+Small-world index: 491.66
+Power-law exponent (gamma_1): 1.693 ± 0.145 with R^2 = 0.9253
+Power-law exponent (gamma_2): 2.148 ± 0.089 with R^2 = 0.9798
+m_r parameter in RW model: 1.485
+Power-law exponent on all data: 2.121 ± 0.021
+
+--------------- Our Mutual Friend (no punctuation) ------------------
+1/6
+2/6
+3/6
+4/6
+5/6
+trimmed 3 points from both tails
+Wordweb from file: text_files/our_mutual_friend.txt
+Number of nodes: 15318
+Number of edges: 239685
+Density: 0.0020431256398113344
+Diameter: 5
+Average degree: 31.29
+Average shortest path length: 2.39
+Average clustering coefficient: 0.70
+Small-world index: 402.14
+Power-law exponent (gamma_1): 1.546 ± 0.175 with R^2 = 0.8766
+Power-law exponent (gamma_2): 2.089 ± 0.051 with R^2 = 0.9930
+m_r parameter in RW model: 1.674
+Power-law exponent on all data: 2.064 ± 0.020
+
+additional nodes: {'“', '”', '&', ';', '(', '_', ',', '.', ')', '’', '!', ':', '‘', '?'}

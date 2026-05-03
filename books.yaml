@@ -1,0 +1,16 @@
+books:
+  - title: "The Kellys and the O'Kellys"
+    file_name: "text_files/the_kellys.txt"
+    start_line: 85
+    end_line: 19381
+
+  - title: "The Last Chronicle of Barset"
+    file_name: "text_files/the_last_chronicle.txt"
+    start_line: 183
+    end_line: 19875
+
+  - title: "The Duke's Children"
+    file_name: "text_files/the_dukes_children.txt"
+    start_line: 134
+    end_line: 21365
+
