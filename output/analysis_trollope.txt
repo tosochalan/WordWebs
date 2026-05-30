@@ -16,7 +16,7 @@ Average clustering coefficient: 0.74
 Small-world index: 299.73
 Power-law exponent (gamma_1): 1.558 ± 0.145 with R^2 = 0.9127
 Power-law exponent (gamma_2): 2.066 ± 0.091 with R^2 = 0.9791
-m_r parameter in RW model: 1.753
+m_r parameter in WW model: 1.753
 
 additional nodes: {'”', '’', '[', '!', ';', ',', '&', '‘', '£', '?', '(', ':', ')', '“', '_', '.', ']'}
 --------------- The Last Chronicle of Barset ------------------
@@ -37,7 +37,7 @@ Average clustering coefficient: 0.76
 Small-world index: 243.14
 Power-law exponent (gamma_1): 1.763 ± 0.122 with R^2 = 0.9417
 Power-law exponent (gamma_2): 2.153 ± 0.074 with R^2 = 0.9847
-m_r parameter in RW model: 1.468
+m_r parameter in WW model: 1.468
 
 additional nodes: {'*', '[', '!', '"', ';', ',', '&', "'", '£', '?', ':', '_', '.', ']'}
 --------------- The Duke's Children ------------------
@@ -58,6 +58,6 @@ Average clustering coefficient: 0.77
 Small-world index: 245.53
 Power-law exponent (gamma_1): 1.760 ± 0.132 with R^2 = 0.9314
 Power-law exponent (gamma_2): 2.068 ± 0.083 with R^2 = 0.9794
-m_r parameter in RW model: 1.746
+m_r parameter in WW model: 1.746
 
 additional nodes: {'!', '[', ';', '"', ',', "'", '?', ':', '£', '.', ']'}
