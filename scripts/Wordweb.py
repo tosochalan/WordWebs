@@ -213,5 +213,5 @@ class Wordweb:
             f"Small-world index: {sw_index:.2f}\n"
             f"Power-law exponent (gamma_1): {gamma_1:.3f} ± {multi_regime.small.confidence:.3f} with R^2 = {multi_regime.small.r2:.4f}\n"
             f"Power-law exponent (gamma_2): {gamma_2:.3f} ± {multi_regime.large.confidence:.3f} with R^2 = {multi_regime.large.r2:.4f}\n"
-            f"m_r parameter in RW model: {m_r:.3f}\n"
+            f"m_r parameter in WW model: {m_r:.3f}\n"
         )
