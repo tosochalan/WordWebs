@@ -16,7 +16,7 @@ Average clustering coefficient: 0.73
 Small-world index: 494.45
 Power-law exponent (gamma_1): 1.642 ± 0.135 with R^2 = 0.9310
 Power-law exponent (gamma_2): 2.063 ± 0.071 with R^2 = 0.9859
-m_r parameter in RW model: 1.762
+m_r parameter in WW model: 1.762
 
 --------------- The Pickwick Papers (no punctuation) ------------------
 1/6
@@ -36,7 +36,7 @@ Average clustering coefficient: 0.67
 Small-world index: 392.82
 Power-law exponent (gamma_1): 1.531 ± 0.149 with R^2 = 0.9059
 Power-law exponent (gamma_2): 2.158 ± 0.069 with R^2 = 0.9878
-m_r parameter in RW model: 1.454
+m_r parameter in WW model: 1.454
 
 additional nodes: {'!', '_', '&', ';', '’', ',', ']', '‘', '[', ')', '.', '£', ':', '”', '*', '“', '?', '('}
 --------------- Bleak House ------------------
@@ -57,7 +57,7 @@ Average clustering coefficient: 0.75
 Small-world index: 463.42
 Power-law exponent (gamma_1): 1.614 ± 0.138 with R^2 = 0.9255
 Power-law exponent (gamma_2): 2.141 ± 0.117 with R^2 = 0.9656
-m_r parameter in RW model: 1.506
+m_r parameter in WW model: 1.506
 
 --------------- Bleak House (no punctuation) ------------------
 1/6
@@ -77,7 +77,7 @@ Average clustering coefficient: 0.71
 Small-world index: 389.54
 Power-law exponent (gamma_1): 1.445 ± 0.187 with R^2 = 0.8323
 Power-law exponent (gamma_2): 2.093 ± 0.058 with R^2 = 0.9901
-m_r parameter in RW model: 1.659
+m_r parameter in WW model: 1.659
 
 additional nodes: {'!', '&', '_', ';', '’', ',', '‘', ')', '.', ':', '”', '“', '?', '('}
 --------------- Our Mutual Friend ------------------
@@ -98,7 +98,7 @@ Average clustering coefficient: 0.75
 Small-world index: 491.66
 Power-law exponent (gamma_1): 1.693 ± 0.145 with R^2 = 0.9253
 Power-law exponent (gamma_2): 2.148 ± 0.089 with R^2 = 0.9798
-m_r parameter in RW model: 1.485
+m_r parameter in WW model: 1.485
 
 --------------- Our Mutual Friend (no punctuation) ------------------
 1/6
@@ -118,6 +118,6 @@ Average clustering coefficient: 0.70
 Small-world index: 402.14
 Power-law exponent (gamma_1): 1.546 ± 0.175 with R^2 = 0.8766
 Power-law exponent (gamma_2): 2.089 ± 0.051 with R^2 = 0.9930
-m_r parameter in RW model: 1.674
+m_r parameter in WW model: 1.674
 
 additional nodes: {'!', '&', '_', ';', '’', ',', '‘', ')', '.', ':', '”', '“', '?', '('}
