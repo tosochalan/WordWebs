@@ -1,0 +1,63 @@
+--------------- The Kellys and the O'Kellys ------------------
+1/6
+2/6
+3/6
+4/6
+5/6
+trimmed 3 points from both tails
+Wordweb from file: text_files/the_kellys.txt
+Number of nodes: 9514
+Number of edges: 130962
+Density: 0.0028939741708794496
+Diameter: 5
+Average degree: 27.53
+Average shortest path length: 2.35
+Average clustering coefficient: 0.74
+Small-world index: 299.73
+Power-law exponent (gamma_1): 1.558 ± 0.145 with R^2 = 0.9127
+Power-law exponent (gamma_2): 2.066 ± 0.091 with R^2 = 0.9791
+m_r parameter in RW model: 1.753
+
+additional nodes: {'”', '’', '[', '!', ';', ',', '&', '‘', '£', '?', '(', ':', ')', '“', '_', '.', ']'}
+--------------- The Last Chronicle of Barset ------------------
+1/6
+2/6
+3/6
+4/6
+5/6
+trimmed 1 points from both tails
+Wordweb from file: text_files/the_last_chronicle.txt
+Number of nodes: 7914
+Number of edges: 112777
+Density: 0.0036017479832884413
+Diameter: 4
+Average degree: 28.50
+Average shortest path length: 2.32
+Average clustering coefficient: 0.76
+Small-world index: 243.14
+Power-law exponent (gamma_1): 1.763 ± 0.122 with R^2 = 0.9417
+Power-law exponent (gamma_2): 2.153 ± 0.074 with R^2 = 0.9847
+m_r parameter in RW model: 1.468
+
+additional nodes: {'*', '[', '!', '"', ';', ',', '&', "'", '£', '?', ':', '_', '.', ']'}
+--------------- The Duke's Children ------------------
+1/6
+2/6
+3/6
+4/6
+5/6
+trimmed 1 points from both tails
+Wordweb from file: text_files/the_dukes_children.txt
+Number of nodes: 7913
+Number of edges: 112439
+Density: 0.0035918610337368324
+Diameter: 4
+Average degree: 28.42
+Average shortest path length: 2.33
+Average clustering coefficient: 0.77
+Small-world index: 245.53
+Power-law exponent (gamma_1): 1.760 ± 0.132 with R^2 = 0.9314
+Power-law exponent (gamma_2): 2.068 ± 0.083 with R^2 = 0.9794
+m_r parameter in RW model: 1.746
+
+additional nodes: {'!', '[', ';', '"', ',', "'", '?', ':', '£', '.', ']'}
